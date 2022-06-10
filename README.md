@@ -1,4 +1,4 @@
-### My token was found in your repo!!
+### My token was found in your repository!!
 -----------------------------------------------------
 If you got a system DM saying your token was found here, it's because I found your bot's token.  
 In the tokens.txt file you can see where I found your token, make sure your don't post your new token here again.
