@@ -4,7 +4,7 @@
 |--------|-----|-------|----
 |`979345803036487713`|`OTc5MzQ1ODAzMDM2NDg3NzEz.GRM5Jw.mMDy0WWYsD6Rb5VXy7h2jWWIiPTunn1g_vNAOs`|10/06/2022|[link](https://replit.com/@DGOP123/DG-MUSIC-1?v=1#config.json)
 |`910714071001739287`|`OTEwNzE0MDcxMDAxNzM5Mjg3.GEnbWy.9yAHWk-LtFc5h1f5_dQqorVSkGX3z9RhLlVO9A`|10/06/2022|[link](https://replit.com/@SubhanshuKumar2/Bot-with-Advanced-Dashboard#config.json)
-|N/A                 |`ODgwMTA2ODIwODM0ODMyNDA1.YSZdWQ.NfwZ3d94D80AKG-Zfxb8gt_1nvI           `|10/06/2022|[link](https://replit.com/@MinitureGamer/Guard#config.json)
+|N/A                 |`ODgwMTA2ODIwODM0ODMyNDA1.YSZdWQ.NfwZ3d94D80AKG-Zfxb8gt_1nvI           `|10/06/2022|Removed 👍
 |N/A                 |`OTgxNjQ3MjIyNzIwNTY1MjQ4.GCDigd.IVOjaWOwJCwdkBHk7xKi8cfORIVF9iyNyv1RFU`|10/06/2022|[link](https://replit.com/@Raindominguez/lucie?v=1#config/config.json)
 |N/A                 |`OTgzMTMzMjUwNDQyNjQxNDMw.GRQsp5.G26x6l_Dn5RqpU8ocH0JiOd0sffT_X2lBBlw04`|10/06/2022|[link](https://replit.com/@LixLix2/Saturn-bot?v=1#config.json)
 |`942477927025606666`|`OTQyNDc3OTI3MDI1NjA2NjY2.YglE-A.DOD1SlAxTa5MtftzuqKdO2jZSjg`           |10/06/2022|[link](https://replit.com/@The-real-Purple/Brotherhood-of-Steel?v=1#config.json)
