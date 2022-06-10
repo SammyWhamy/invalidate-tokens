@@ -2,7 +2,9 @@
 
 |Bot ID|Token|Date|Link
 |--------|-----|-------|----
-|`710674192508387359`|`NzEwNjc0MTkyNTA4Mzg3MzU5.Xr346w.7PPGPWekA9Kq7b532X3Fn9J5gZQ`|10/06/2022|[link](https://replit.com/@HatsuneMiku8/Discord-MusicBot?v=1#botconfig.js)
+|`980567864484446258`|`OTgwNTY3ODY0NDg0NDQ2MjU4.GDFa3q._tcbN3G4YoUwimWsEpfYt2uelQp8gDKW4Gnzcw`|10/06/2022|[link](https://replit.com/@999jaradwrld1/BotDashpro?v=1#index.js)
+|`971508719823245352`|`OTcxNTA4NzE5ODIzMjQ1MzUy.Gt1yfz.k1_vdXwS6ZElwwPXRAO_fshNHMLEt_l8Iiz1ik`|10/06/2022|[link](https://replit.com/@999jaradwrld1/multi-purpose-bot?v=1#config.js)
+|`710674192508387359`|`NzEwNjc0MTkyNTA4Mzg3MzU5.Xr346w.7PPGPWekA9Kq7b532X3Fn9J5gZQ`           |10/06/2022|[link](https://replit.com/@HatsuneMiku8/Discord-MusicBot?v=1#botconfig.js)
 |`979345803036487713`|`OTc5MzQ1ODAzMDM2NDg3NzEz.GRM5Jw.mMDy0WWYsD6Rb5VXy7h2jWWIiPTunn1g_vNAOs`|10/06/2022|[link](https://replit.com/@DGOP123/DG-MUSIC-1?v=1#config.json)
 |`910714071001739287`|`OTEwNzE0MDcxMDAxNzM5Mjg3.GEnbWy.9yAHWk-LtFc5h1f5_dQqorVSkGX3z9RhLlVO9A`|10/06/2022|[link](https://replit.com/@SubhanshuKumar2/Bot-with-Advanced-Dashboard#config.json)
 |N/A                 |`ODgwMTA2ODIwODM0ODMyNDA1.YSZdWQ.NfwZ3d94D80AKG-Zfxb8gt_1nvI           `|10/06/2022|Removed 👍
