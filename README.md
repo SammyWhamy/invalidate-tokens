@@ -10,9 +10,4 @@ In the [tokens.md](https://github.com/SammyWhamy/invalidate-tokens/blob/main/tok
 #### Note that someone could've used your token to do much worse than simply invalidate it. [Keep your token safe!](https://discord.com/developers/docs/getting-started#configuring-a-bot:~:text=Bot%20tokens%20are%20used%20to%20authorize%20API%20requests%20and%20carry%20all%20of%20your%20bot%20user%E2%80%99s%20permissions%2C%20making%20them%20highly%20sensitive.%20Make%20sure%20to%20never%20share%20your%20token%20or%20check%20it%20into%20any%20kind%20of%20version%20control.)
 
 > For any questions, you are free to DM `Sammy#1001` on Discord.
-  
 
-## I found a token that doesn't belong to me!
-If you also found a token somewhere and you want to help the user out, feel free to DM me (`Sammy#1001`) on Discord with the token and where you found it, and I'll add it to the list!
-
-On the other hand, if you have any ideas to (semi-)automate this process, let me know! Maybe we can make something
