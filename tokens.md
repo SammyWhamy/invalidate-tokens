@@ -2,6 +2,7 @@
 
 | Type | ID                   | Token                                                                    | Date       | Link        |
 | ---- | -------------------- | ------------------------------------------------------------------------ | ---------- | ----------- |
+| Bot  | `942477927025606666` | `OTQyNDc3OTI3MDI1NjA2NjY2.YglE-A.DOD1SlAxTa5MtftzuqKdO2jZSjg`            | 12/06/2022 | [Link](N/A) |
 | Bot  | `983133250442641430` | `OTgzMTMzMjUwNDQyNjQxNDMw.GRQsp5.G26x6l_Dn5RqpU8ocH0JiOd0sffT_X2lBBlw04` | 12/06/2022 | [Link](N/A) |
 | Bot  | `981647222720565248` | `OTgxNjQ3MjIyNzIwNTY1MjQ4.GCDigd.IVOjaWOwJCwdkBHk7xKi8cfORIVF9iyNyv1RFU` | 12/06/2022 | [Link](N/A) |
 | Bot  | `880106820834832405` | `ODgwMTA2ODIwODM0ODMyNDA1.YSZdWQ.NfwZ3d94D80AKG-Zfxb8gt_1nvI`            | 12/06/2022 | [Link](N/A) |
