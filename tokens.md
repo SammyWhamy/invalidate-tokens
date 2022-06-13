@@ -2,6 +2,7 @@
 
 | Type | ID                   | Token                                                                    | Date      | Link                                                                                   |
 | ---- | -------------------- | ------------------------------------------------------------------------ | --------- | -------------------------------------------------------------------------------------- |
+| Bot  | `969590592432644137` | `OTY5NTkwNTkyNDMyNjQ0MTM3.Ymvnmw.YnTcMkZCtPghQ7hry-tGygD4rYY`            | 6/13/2022 | [Link](https://replit.com/@Gaming-with-LEG/Nuker-1?v=1#main.py)                        |
 | Bot  | `985117663921582141` | `OTg1MTE3NjYzOTIxNTgyMTQx.GkEBen.MVNGcGRC7Xn5C0fP1egvwtK0wtHGKbxTd9IAfk` | 6/13/2022 | [Link](https://replit.com/@AryamanHM/discord-24x7-music?v=1#bot.cfg)                   |
 | Bot  | `985130194954252348` | `OTg1MTMwMTk0OTU0MjUyMzQ4.Gz6XLy.mtESgRNGLHhr-WZ3xWCrcAkEiq_c4stqjNRdzI` | 6/13/2022 | [Link](https://replit.com/@AryamanHM/24-7-Discord-Music-Bot?v=1#config.json)           |
 | Bot  | `985176985951166495` | `OTg1MTc2OTg1OTUxMTY2NDk1.GAikbo.MBKahY17JUkmO44q5scATpDRUb7ddmB1H_Hgh8` | 6/13/2022 | [Link](https://replit.com/@AryamanHM/CHANGE-STREAM-BOT?v=1#config.json)                |
