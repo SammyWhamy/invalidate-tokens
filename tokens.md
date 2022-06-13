@@ -2,6 +2,7 @@
 
 | Type | ID                   | Token                                                                    | Date      | Link                                                                                   |
 | ---- | -------------------- | ------------------------------------------------------------------------ | --------- | -------------------------------------------------------------------------------------- |
+| Bot  | `984379670801809428` | `OTg0Mzc5NjcwODAxODA5NDI4.GD68Ou.G5cMIXfP95ZuKXRSWYj1qu2H5GW5KRu3CwpycQ` | 6/13/2022 | [Link](https://replit.com/@LaurTeo/Laurwz2?v=1#main.py)                                |
 | Bot  | `984431148170117220` | `OTg0NDMxMTQ4MTcwMTE3MjIw.Gx_uMm.gDmqcXmQvgyoa8lb0TUS1qZirOtCOTs50pb9y4` | 6/13/2022 | [Link](https://replit.com/@LaurTeo/Laurwz3?v=1#main.py)                                |
 | Bot  | `984481182014140507` | `OTg0NDgxMTgyMDE0MTQwNTA3.GGSw2K.LAY15-z4ulovRc7Mmo9jev1ZoII9tYxgM0QgEQ` | 6/13/2022 | [Link](https://replit.com/@LaurTeo/ye?v=1#main.py)                                     |
 | Bot  | `969590592432644137` | `OTY5NTkwNTkyNDMyNjQ0MTM3.Ymvnmw.YnTcMkZCtPghQ7hry-tGygD4rYY`            | 6/13/2022 | [Link](https://replit.com/@Gaming-with-LEG/Nuker-1?v=1#main.py)                        |
