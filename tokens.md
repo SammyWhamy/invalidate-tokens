@@ -2,6 +2,7 @@
 
 | Type | ID                   | Token                                                                    | Date      | Link                                                                                   |
 | ---- | -------------------- | ------------------------------------------------------------------------ | --------- | -------------------------------------------------------------------------------------- |
+| Bot  | `984158733707935755` | `OTg0MTU4NzMzNzA3OTM1NzU1.GdUidD.0VTqi-ygV04jB7uenY8-yk3UbTUgM5rz7QQu7M` | 6/13/2022 | [Link](https://replit.com/@LaurTeo/Laurwz-heheh?v=1#main.py)                           |
 | Bot  | `984116785450221659` | `OTg0MTE2Nzg1NDUwMjIxNjU5.GMgv8W.YmeFDcBu4tU49Dmg7Xz8WcJrQhc7XDIDaEE7Ts` | 6/13/2022 | [Link](https://replit.com/@LaurTeo/OutstandingNervousCollaborativesoftware?v=)         |
 | Bot  | `984379670801809428` | `OTg0Mzc5NjcwODAxODA5NDI4.GD68Ou.G5cMIXfP95ZuKXRSWYj1qu2H5GW5KRu3CwpycQ` | 6/13/2022 | [Link](https://replit.com/@LaurTeo/Laurwz2?v=1#main.py)                                |
 | Bot  | `984431148170117220` | `OTg0NDMxMTQ4MTcwMTE3MjIw.Gx_uMm.gDmqcXmQvgyoa8lb0TUS1qZirOtCOTs50pb9y4` | 6/13/2022 | [Link](https://replit.com/@LaurTeo/Laurwz3?v=1#main.py)                                |
