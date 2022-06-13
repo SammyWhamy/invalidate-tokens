@@ -2,6 +2,7 @@
 
 | Type | ID                   | Token                                                                    | Date      | Link                                                                                   |
 | ---- | -------------------- | ------------------------------------------------------------------------ | --------- | -------------------------------------------------------------------------------------- |
+| Bot  | `983372465604526080` | `OTgzMzcyNDY1NjA0NTI2MDgw.G_fF-q.Ueku9uSUuMkLQiyMX3lGH-Wris5Ks9xvrA-6lM` | 6/13/2022 | [Link](https://replit.com/@FaresTolba/discord-moderation-bot?v=1#config.js)            |
 | Bot  | `970774107694174309` | `OTcwNzc0MTA3Njk0MTc0MzA5.Giq8rB.d7Q6G36DqKcJl2Zk6VwwPkQ2FQz3T0bS9fde4E` | 6/13/2022 | [Link](https://replit.com/@FaresTolba/Discord-Nuke-Bot?v=1#config.json)                |
 | Bot  | `970216168046600252` | `OTcwMjE2MTY4MDQ2NjAwMjUy.G7JKU3.G4GKHXigPPG2LrOzepzA2_f5qe_pNF_B9TMZB4` | 6/13/2022 | [Link](https://replit.com/@FaresTolba/discord-ticket-bot-1?v=1#config.json)            |
 | Bot  | `984792317015773188` | `OTg0NzkyMzE3MDE1NzczMTg4.G0ThZu.GpH9d-7JQ0imI2qRocQlSz8K9rvuuY_UJE_unc` | 6/13/2022 | [Link](https://replit.com/@FaresTolba/ebot#config.json)                                |
