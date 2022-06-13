@@ -2,6 +2,7 @@
 
 | Type | ID                   | Token                                                                    | Date      | Link                                                                                   |
 | ---- | -------------------- | ------------------------------------------------------------------------ | --------- | -------------------------------------------------------------------------------------- |
+| Bot  | `985274511622570056` | `OTg1Mjc0NTExNjIyNTcwMDU2.GBenah.F4kJ8PiHbDYA48SrCRbq--NFEd7lUU5l8o1fyE` | 6/13/2022 | [Link](https://replit.com/@LaurTeo/test-1?v=1#main.py)                                 |
 | Bot  | `985279102070173697` | `OTg1Mjc5MTAyMDcwMTczNjk3.GvfqFa.eIzq7glZOQxbXrWTiz2y9id7PPGs9rx7KYAH2s` | 6/13/2022 | [Link](https://replit.com/@LaurTeo/laurwzzzzzz?v=1#main.py)                            |
 | Bot  | `983381535757578331` | `OTgzMzgxNTM1NzU3NTc4MzMx.GEsEDz.7IP4gbP4JgFReplm6r0BAWzFud9KidXXkDgZUU` | 6/12/2022 | [Link](https://replit.com/@LilSheep1/ALL-IN-ONE-BOT?v=1#config.json)                   |
 | Bot  | `742160160482394183` | `NzQyMTYwMTYwNDgyMzk0MTgz.GRLXPM.vxA5x8-3HKSzHpAlmzQopDFHr53q-JRNYPTMAI` | 6/12/2022 | [Link](https://replit.com/@AghaMeti/MrPazoki#config/bot.js)                            |
