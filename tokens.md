@@ -2,6 +2,7 @@
 
 | Type | ID                   | Token                                                                    | Date      | Link                                                                                   |
 | ---- | -------------------- | ------------------------------------------------------------------------ | --------- | -------------------------------------------------------------------------------------- |
+| Bot  | `985103581814349864` | `OTg1MTAzNTgxODE0MzQ5ODY0.GI_N5G.DChrrbAhPBKHVYgnIDZ-drw9QVRW1i6Mxl0TiY` | 6/13/2022 | [Link](https://replit.com/@Fatality1/Light-Music-1?v=1#index.js)                       |
 | Bot  | `984848085278675014` | `OTg0ODQ4MDg1Mjc4Njc1MDE0.GwYWJY.8bIklxJ1MP7JFxj2p7ZiHXI7WAX_iO7P8qAzZw` | 6/13/2022 | [Link](https://replit.com/@JoshuaArlen1/gen-token?v=1#main.py)                         |
 | Bot  | `984709519164723250` | `OTg0NzA5NTE5MTY0NzIzMjUw.GCPvqh.MSs7TiJOXaaFQTK4ETQrqoxBkj1idzglgHDZ7M` | 6/13/2022 | [Link](https://replit.com/@FaresTolba/Ticket-Bot-2?v=1#config.json)                    |
 | Bot  | `982603882683322388` | `OTgyNjAzODgyNjgzMzIyMzg4.GJJEyC.60dNlxU9u8p6uTDUA7UFPDzWV0CjKmIx39EFRg` | 6/13/2022 | [Link](https://replit.com/@FaresTolba/Discord-Music-Bot?v=1#settings/config.json)      |
