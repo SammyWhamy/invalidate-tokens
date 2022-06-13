@@ -2,6 +2,7 @@
 
 | Type | ID                   | Token                                                                    | Date      | Link                                                                                   |
 | ---- | -------------------- | ------------------------------------------------------------------------ | --------- | -------------------------------------------------------------------------------------- |
+| Bot  | `985453503185031178` | `OTg1NDUzNTAzMTg1MDMxMTc4.Ghoqxs.pGRjDs_ajVeNarOrk6WDCGigis1KPQM8HNax7E` | 6/13/2022 | [Link](https://replit.com/@adopt-meme/Dmalllll#config.json)                            |
 | Bot  | `975765384496029766` | `OTc1NzY1Mzg0NDk2MDI5NzY2.G4tt86.altKnd6bQ8-WH3gGxFK2uXel29qCBfHhhfWTJA` | 6/13/2022 | [Link](https://replit.com/@discordstaffmember/Freezy-1?v=1#main.py)                    |
 | Bot  | `944943497230823485` | `OTQ0OTQzNDk3MjMwODIzNDg1.YhI9NQ.y_Y81PaGBge4gPmkmW7hEOqx9gA`            | 6/13/2022 | [Link](https://replit.com/@KAI-GAMINGGAMIN/DISCORD-TOKEN-CHECKER-BY-BB?v=1#to)         |
 | Bot  | `967408648391364669` | `OTY3NDA4NjQ4MzkxMzY0NjY5.YmP3gw.nIvD3Y_bJfN3g6LpqUf2JefBOtE`            | 6/13/2022 | [Link](https://replit.com/@gane47226/AHGfut-Private-Nitro-Generator-1?v=1#mai)         |
