@@ -2,6 +2,7 @@
 
 | Type | ID                   | Token                                                                    | Date      | Link                                                                                   |
 | ---- | -------------------- | ------------------------------------------------------------------------ | --------- | -------------------------------------------------------------------------------------- |
+| Bot  | `970216168046600252` | `OTcwMjE2MTY4MDQ2NjAwMjUy.G7JKU3.G4GKHXigPPG2LrOzepzA2_f5qe_pNF_B9TMZB4` | 6/13/2022 | [Link](https://replit.com/@FaresTolba/discord-ticket-bot-1?v=1#config.json)            |
 | Bot  | `984792317015773188` | `OTg0NzkyMzE3MDE1NzczMTg4.G0ThZu.GpH9d-7JQ0imI2qRocQlSz8K9rvuuY_UJE_unc` | 6/13/2022 | [Link](https://replit.com/@FaresTolba/ebot#config.json)                                |
 | Bot  | `984580113960169492` | `OTg0NTgwMTEzOTYwMTY5NDky.GBzOSJ.OCgRpecPV5A7wGbu8-HVFhnGjUGmfbI06ydDzQ` | 6/13/2022 | [Link](https://replit.com/@TPX2/Discord-MusicBot?v=1#botconfig.js)                     |
 | Bot  | `955603067741564979` | `OTU1NjAzMDY3NzQxNTY0OTc5.YjkEtQ.IRCaDrd3I1BxDscaPCHgca5koPI`            | 6/13/2022 | [Link](https://replit.com/@WadeHaller/Serbian-Music-Bot?v=1#config.json)               |
