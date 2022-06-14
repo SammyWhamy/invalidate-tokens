@@ -2,7 +2,8 @@
 
 | Type | ID                   | Token                                                                    | Date      | Link                                                                                   |
 | ---- | -------------------- | ------------------------------------------------------------------------ | --------- | -------------------------------------------------------------------------------------- |
-| Bot  | `985242502674133043` | `OTg1MjQyNTAyNjc0MTMzMDQz.Gtowfn.pNUh7Bx_bg_BmsHhSpx0x0ZTAkEYWeacXud6zM` | 6/13/2022 | [Link](N/A)                                                                            |
+| Bot  | `986187276981780520` | `OTg2MTg3Mjc2OTgxNzgwNTIw.GSkhSW.ZT1Fq7orG7uI3LXdedvZ0SKuVzDkU-_zSh3_kc` | 6/14/2022 | [Link](https://replit.com/@didm0n/DISCORD-BOT-WITH-BUTTON?v=1#config.json)             |
+| Bot  | `985242502674133043` | `OTg1MjQyNTAyNjc0MTMzMDQz.Gtowfn.pNUh7Bx_bg_BmsHhSpx0x0ZTAkEYWeacXud6zM` | 6/13/2022 | N/A                                                                                    |
 | Bot  | `821854107638956063` | `ODIxODU0MTA3NjM4OTU2MDYz.YFJ3uw.og3PSTNCCDeP3bsi8pM7oBDVj-E`            | 6/13/2022 | [Link](https://replit.com/@HatsuneMiku8/Discord-MusicBot-1?v=1#botconfig.js)           |
 | Bot  | `948336922336587836` | `OTQ4MzM2OTIyMzM2NTg3ODM2.GTW4Jq.Kv9vhrTiScbFf_POWmd3bmKqD_T_y27jlQHoJ4` | 6/13/2022 | [Link](https://replit.com/@Fatality1/Invite-Tracker-2?v=1#config.js)                   |
 | Bot  | `877485157559435264` | `ODc3NDg1MTU3NTU5NDM1MjY0.YSNsKw.1OdTrw9FFQxTPn50Yrmcjtr5pCk`            | 6/13/2022 | [Link](https://replit.com/@Fatality1/Bot-Bump-1?v=1#index.js)                          |
