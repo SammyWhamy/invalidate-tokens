@@ -16,5 +16,5 @@ Use [secrets](https://blog.replit.com/secrets). These are private and cannot be 
 ![img](https://cdn.discordapp.com/attachments/878930307401781289/985444531614912572/ezgif-2-fb82e6d2dc.gif)
 
 # I found someones token!
-You can use our [Token Invalidator](https://token-invalidator.vercel.app) to add tokens to this repository.  
+You can use our [Token Invalidator](https://invalidate.vercel.app) to add tokens to this repository.  
 The source code for the invalidator is available [here](https://github.com/SammyWhamy/token-invalidator).
