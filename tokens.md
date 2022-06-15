@@ -2,6 +2,7 @@
 
 | Type | ID                   | Token                                                                    | Date      | Link                                                                                         |
 | ---- | -------------------- | ------------------------------------------------------------------------ | --------- | -------------------------------------------------------------------------------------------- |
+| Bot  | `968960364924506172` | `OTY4OTYwMzY0OTI0NTA2MTcy.Gtfxoh.bNU0ZsKPtYd9Iun4QeJVCv9sQRrlyFUpvyLPtw` | 6/15/2022 | [Link](N/A)                                                                                  |
 | Bot  | `945568565535334410` | `OTQ1NTY4NTY1NTM1MzM0NDEw.Gs4tiD.apbU-ELiCD2tryt41xyUXC7lfS4dLvfJoJ5q4w` | 6/15/2022 | [Link](https://replit.com/@MudrankDeveloper/Advanced-Light-Music-Bot?v=1#config/config.json) |
 | Bot  | `985211451977375845` | `OTg1MjExNDUxOTc3Mzc1ODQ1.GCMV0r.6YXn7p7Ftoq_H004Y6vXx_H8KUZRnIP88MTYaM` | 6/15/2022 | [Link](https://replit.com/@DMICoderz/OP-Moderation-Bot-V31-ALPHA?v=1#config.json)            |
 | Bot  | `979860506934403104` | `OTc5ODYwNTA2OTM0NDAzMTA0.G7oZmU.dfoeSwy7KtfFcYzCP2WZ_yjnDHJabQTCo67ESM` | 6/15/2022 | [Link](https://replit.com/@DonKostakys/Medusa-Shop-Bot?v=1#main.py)                          |
