@@ -2,6 +2,7 @@
 
 | Type | ID                   | Token                                                                    | Date      | Link                                                                                        |
 | ---- | -------------------- | ------------------------------------------------------------------------ | --------- | ------------------------------------------------------------------------------------------- |
+| Bot  | `960536732917440633` | `OTYwNTM2NzMyOTE3NDQwNjMz.GjDXVF.369kqKDYJcgXOdVT2QhRhUnimMbuxOdSXP3YK0` | 6/15/2022 | [Link](https://replit.com/@TrollingAssassi/DISCORD-SPAMMER-2022?v=1#main.py)                |
 | Bot  | `872188813559099393` | `ODcyMTg4ODEzNTU5MDk5Mzkz.Gcw45q.aiVuHuTVeVuNoqkWf1WUAHYryOWftyU0SIggFc` | 6/15/2022 | [Link](https://replit.com/@premiumee2/Nano-Music-BOT?v=1#config.json)                       |
 | Bot  | `983299701891797043` | `OTgzMjk5NzAxODkxNzk3MDQz.G3JPFl.q90MXd9ZD-BWdvQG1BZSIz5O4X87hyIoyT3j1k` | 6/15/2022 | [Link](https://replit.com/@MrDup/stalker-bot?v=1#main.py)                                   |
 | Bot  | `886229060336906262` | `ODg2MjI5MDYwMzM2OTA2MjYy.YTyjIQ.iMMGfUr-71BELetfqYUVtxQuSoE`            | 6/15/2022 | [Link](https://replit.com/@RolandSimon1/Bot-with-Advanced-Dashboard?v=1#config.js)          |
