@@ -2,6 +2,7 @@
 
 | Type | ID                   | Token                                                                    | Date      | Link                                                                                   |
 | ---- | -------------------- | ------------------------------------------------------------------------ | --------- | -------------------------------------------------------------------------------------- |
+| Bot  | `791959895779835914` | `NzkxOTU5ODk1Nzc5ODM1OTE0.GmlQI2.rQXrHLkipz98hJjZJIxdwtQKhIEHoOTOJh3v0g` | 6/15/2022 | [Link](https://replit.com/@Strxcies/self-bot-div?v=1#config.json)                      |
 | Bot  | `975425139682459648` | `OTc1NDI1MTM5NjgyNDU5NjQ4.G_NmXf.NtoSXLXQ89qvNO6IwvcK2HSzK4lbFcHSAvRm8o` | 6/15/2022 | [Link](https://replit.com/@MaldivDakar/brothers-hands-leveling-bot?v=1#config.json)    |
 | Bot  | `986187276981780520` | `OTg2MTg3Mjc2OTgxNzgwNTIw.GSkhSW.ZT1Fq7orG7uI3LXdedvZ0SKuVzDkU-_zSh3_kc` | 6/14/2022 | [Link](https://replit.com/@didm0n/DISCORD-BOT-WITH-BUTTON?v=1#config.json)             |
 | Bot  | `985242502674133043` | `OTg1MjQyNTAyNjc0MTMzMDQz.Gtowfn.pNUh7Bx_bg_BmsHhSpx0x0ZTAkEYWeacXud6zM` | 6/13/2022 | N/A                                                                                    |
