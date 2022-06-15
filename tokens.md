@@ -2,6 +2,7 @@
 
 | Type | ID                   | Token                                                                    | Date      | Link                                                                                        |
 | ---- | -------------------- | ------------------------------------------------------------------------ | --------- | ------------------------------------------------------------------------------------------- |
+| Bot  | `983299701891797043` | `OTgzMjk5NzAxODkxNzk3MDQz.G3JPFl.q90MXd9ZD-BWdvQG1BZSIz5O4X87hyIoyT3j1k` | 6/15/2022 | [Link](https://replit.com/@MrDup/stalker-bot?v=1#main.py)                                   |
 | Bot  | `886229060336906262` | `ODg2MjI5MDYwMzM2OTA2MjYy.YTyjIQ.iMMGfUr-71BELetfqYUVtxQuSoE`            | 6/15/2022 | [Link](https://replit.com/@RolandSimon1/Bot-with-Advanced-Dashboard?v=1#config.js)          |
 | Bot  | `976456042995134464` | `OTc2NDU2MDQyOTk1MTM0NDY0.GtmLFr.T7EcfaJUXKIr1dw7lEUaUmIxKvUpImUWgvHkrk` | 6/15/2022 | [Link](https://replit.com/@Entity3034/bot-Auto-Prune?v=1#config.py)                         |
 | Bot  | `976781584516673596` | `OTc2NzgxNTg0NTE2NjczNTk2.G3wcNl.5wJPV5KznSoY8AVMn8NFimKU0OHUVyDfMJ1VDo` | 6/15/2022 | [Link](https://replit.com/@AnubhabSen/Multipurpose-discord-bot-1?v=1#botconfig/config.json) |
