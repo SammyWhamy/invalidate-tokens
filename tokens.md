@@ -2,6 +2,7 @@
 
 | Type | ID                   | Token                                                                    | Date      | Link                                                                                        |
 | ---- | -------------------- | ------------------------------------------------------------------------ | --------- | ------------------------------------------------------------------------------------------- |
+| Bot  | `976456042995134464` | `OTc2NDU2MDQyOTk1MTM0NDY0.GtmLFr.T7EcfaJUXKIr1dw7lEUaUmIxKvUpImUWgvHkrk` | 6/15/2022 | [Link](https://replit.com/@Entity3034/bot-Auto-Prune?v=1#config.py)                         |
 | Bot  | `976781584516673596` | `OTc2NzgxNTg0NTE2NjczNTk2.G3wcNl.5wJPV5KznSoY8AVMn8NFimKU0OHUVyDfMJ1VDo` | 6/15/2022 | [Link](https://replit.com/@AnubhabSen/Multipurpose-discord-bot-1?v=1#botconfig/config.json) |
 | Bot  | `791959895779835914` | `NzkxOTU5ODk1Nzc5ODM1OTE0.GmlQI2.rQXrHLkipz98hJjZJIxdwtQKhIEHoOTOJh3v0g` | 6/15/2022 | [Link](https://replit.com/@Strxcies/self-bot-div?v=1#config.json)                           |
 | Bot  | `975425139682459648` | `OTc1NDI1MTM5NjgyNDU5NjQ4.G_NmXf.NtoSXLXQ89qvNO6IwvcK2HSzK4lbFcHSAvRm8o` | 6/15/2022 | [Link](https://replit.com/@MaldivDakar/brothers-hands-leveling-bot?v=1#config.json)         |
