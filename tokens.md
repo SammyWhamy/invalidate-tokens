@@ -2,6 +2,7 @@
 
 | Type | ID                   | Token                                                                    | Date      | Link                                                                                         |
 | ---- | -------------------- | ------------------------------------------------------------------------ | --------- | -------------------------------------------------------------------------------------------- |
+| Bot  | `986959911822966845` | `OTg2OTU5OTExODIyOTY2ODQ1.GpFrZk.B2yUQDfJ4r-R13YZyYUQWQGVVJRFxKTqNjOx3M` | 6/16/2022 | [Link](https://replit.com/@HdugDhduh/system-bot-by-Ahmed?v=1#config.js)                      |
 | Bot  | `897446391847215114` | `ODk3NDQ2MzkxODQ3MjE1MTE0.Gpm9HA.jEwd-Az54XcLkUy0FIMRem51pjH5H6euQW2A1E` | 6/16/2022 | [Link](https://replit.com/@papinwit23/Bot-sms?v=1#main.py)                                   |
 | Bot  | `986685044724740107` | `OTg2Njg1MDQ0NzI0NzQwMTA3.GULZWf.NLEsUwUUw6qyWbi01Ml0aLc8ansEj5u7bnULCQ` | 6/16/2022 | [Link](https://replit.com/@RitikTanish/Discord-MusicBot?v=1#botconfig.js)                    |
 | Bot  | `986965800613187594` | `OTg2OTY1ODAwNjEzMTg3NTk0.Gc_Sx-.gEJBNo4QASsbwTdJjCpKumvLv8gYm63a2P6ShY` | 6/16/2022 | [Link](https://replit.com/@Popbwb/Gabriel-bot?v=1#env.example)                               |
