@@ -2,6 +2,7 @@
 
 | Type | ID                   | Token                                                                    | Date      | Link                                                                                         |
 | ---- | -------------------- | ------------------------------------------------------------------------ | --------- | -------------------------------------------------------------------------------------------- |
+| Bot  | `986765565165191208` | `OTg2NzY1NTY1MTY1MTkxMjA4.GQEkqq.NAX0xXTiSLkTQnrBOaFIQzNdVZZDiDfZ_WkNUA` | 6/16/2022 | [Link](https://replit.com/@ArturD3/Dyno-clone?v=1#config.js)                                 |
 | Bot  | `986381585794347008` | `OTg2MzgxNTg1Nzk0MzQ3MDA4.Ge0Aof.b8WI94JMXzmxelvUGwVkwGOZjySeyU6ibBEQxE` | 6/16/2022 | [Link](https://replit.com/@guiisantos1/Nano-Music-BOT?v=1#config.json)                       |
 | Bot  | `968960364924506172` | `OTY4OTYwMzY0OTI0NTA2MTcy.Gtfxoh.bNU0ZsKPtYd9Iun4QeJVCv9sQRrlyFUpvyLPtw` | 6/15/2022 | [Link](N/A)                                                                                  |
 | Bot  | `945568565535334410` | `OTQ1NTY4NTY1NTM1MzM0NDEw.Gs4tiD.apbU-ELiCD2tryt41xyUXC7lfS4dLvfJoJ5q4w` | 6/15/2022 | [Link](https://replit.com/@MudrankDeveloper/Advanced-Light-Music-Bot?v=1#config/config.json) |
