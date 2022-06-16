@@ -2,6 +2,7 @@
 
 | Type | ID                   | Token                                                                    | Date      | Link                                                                                         |
 | ---- | -------------------- | ------------------------------------------------------------------------ | --------- | -------------------------------------------------------------------------------------------- |
+| Bot  | `973699108479041626` | `OTczNjk5MTA4NDc5MDQxNjI2.Gc5Leg.bBCNuKrgKGIXEo31haPVEMqUTA0qbF1i8yCdI0` | 6/16/2022 | [Link](https://replit.com/@efreefreeefebfg/Dyno-nuke-bot?v=1#config.json)                    |
 | Bot  | `986965644807380992` | `OTg2OTY1NjQ0ODA3MzgwOTky.GTAxqS.zSSSJ1ZSRJ1K99BeZr3KRamScjtis5NN_zhuRs` | 6/16/2022 | [Link](https://replit.com/@RohanBhatt3/ECO?v=1#botConfig.js)                                 |
 | Bot  | `986302332092432426` | `OTg2MzAyMzMyMDkyNDMyNDI2.G60QEc.LkyFy4P4cNPf9TdvkvTN_X5ebPIafW8gpCTkFA` | 6/16/2022 | [Link](https://replit.com/@baztekin5/bazecoprj?v=1#config.json)                              |
 | Bot  | `986959911822966845` | `OTg2OTU5OTExODIyOTY2ODQ1.GpFrZk.B2yUQDfJ4r-R13YZyYUQWQGVVJRFxKTqNjOx3M` | 6/16/2022 | [Link](https://replit.com/@HdugDhduh/system-bot-by-Ahmed?v=1#config.js)                      |
