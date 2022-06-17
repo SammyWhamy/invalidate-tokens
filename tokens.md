@@ -2,6 +2,7 @@
 
 | Type | ID                   | Token                                                                    | Date      | Link                                                                                         |
 | ---- | -------------------- | ------------------------------------------------------------------------ | --------- | -------------------------------------------------------------------------------------------- |
+| Bot  | `987185405440966716` | `OTg3MTg1NDA1NDQwOTY2NzE2.G8Xo9k.HEsNXDNNkcZmetMdqfrhc8B31QEyciMGjQ-ZOs` | 6/17/2022 | [Link](https://replit.com/@Mohamedtheghost/Discord-MusicBot-3#botconfig.js)                  |
 | Bot  | `987185405440966716` | `OTg3MTg1NDA1NDQwOTY2NzE2.G-UAe_.psGvG7SqaNtIDcHYwq0LrvOaRObPCFUDzHt8yc` | 6/17/2022 | [Link](https://replit.com/@Mohamedtheghost/Discord-MusicBot-3#botconfig.js)                  |
 | Bot  | `972880565344817192` | `OTcyODgwNTY1MzQ0ODE3MTky.GsKhuO.8cISt1k6_YFoKLKcZ7HIzhk8oeySzhfP6S_pFw` | 6/16/2022 | [Link](N/A)                                                                                  |
 | Bot  | `973699108479041626` | `OTczNjk5MTA4NDc5MDQxNjI2.Gc5Leg.bBCNuKrgKGIXEo31haPVEMqUTA0qbF1i8yCdI0` | 6/16/2022 | [Link](https://replit.com/@efreefreeefebfg/Dyno-nuke-bot?v=1#config.json)                    |
