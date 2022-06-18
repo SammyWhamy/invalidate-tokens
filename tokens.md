@@ -2,6 +2,7 @@
 
 | Type | ID                   | Token                                                                    | Date      | Link                                                                                         |
 | ---- | -------------------- | ------------------------------------------------------------------------ | --------- | -------------------------------------------------------------------------------------------- |
+| Bot  | `946029560632324116` | `OTQ2MDI5NTYwNjMyMzI0MTE2.YhYwsA.o3FRfjmeeRSdsukyvCP0GE93i6A`            | 6/18/2022 | [Link](https://replit.com/@TecnoPlayZ1337/Owl-spammer-Created-By-TecnoPlayZ?v=1#tokens.txt)  |
 | Bot  | `946029558858133504` | `OTQ2MDI5NTU4ODU4MTMzNTA0.YhYwsA.cdh-_HenWw7exb0NnvAlHSdZ0FE`            | 6/18/2022 | [Link](https://replit.com/@TecnoPlayZ1337/Owl-spammer-Created-By-TecnoPlayZ?v=1#tokens.txt)  |
 | Bot  | `977414406805790790` | `OTc3NDE0NDA2ODA1NzkwNzkw.GTAJMF.Z_QQODRB7s8T-4m3ku1_zR8pNaz1nt7SKJf8wk` | 6/18/2022 | [Link](https://replit.com/@anonymousq3f/Lexion-bot?v=1#main.py)                              |
 | Bot  | `953211093579358218` | `OTUzMjExMDkzNTc5MzU4MjE4.YjBRAg.YYR2rh5Lc11dMYMT_PWpSIOga2Q`            | 6/18/2022 | [Link](https://replit.com/@herokumiraheze/modmailbot?v=1#config.ini)                         |
