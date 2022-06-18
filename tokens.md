@@ -2,6 +2,7 @@
 
 | Type | ID                   | Token                                                                    | Date      | Link                                                                                         |
 | ---- | -------------------- | ------------------------------------------------------------------------ | --------- | -------------------------------------------------------------------------------------------- |
+| Bot  | `987363228919144488` | `OTg3MzYzMjI4OTE5MTQ0NDg4.G7mTTe.fPtYpcp2ImOZpTAVIURqb-6IKCG1aKDlvehwJM` | 6/18/2022 | [Link](https://replit.com/@Death-MCMC/DC-NUKE-BOT-try?v=1#index.js)                          |
 | Bot  | `986640426251481159` | `OTg2NjQwNDI2MjUxNDgxMTU5.GR3K2J.PWSxokk1eV_PZSKNESLyzlMP7Re38DV40qZxUo` | 6/18/2022 | [Link](https://replit.com/@KPROPMC/NEVER-GONNA-GIVE-U-UP?v=1#main.py)                        |
 | Bot  | `987719111666708581` | `OTg3NzE5MTExNjY2NzA4NTgx.GQX1TC.wnZi8oc1-xdW7aAAf1lo3uUmUCpKze29ouu_8c` | 6/18/2022 | [Link](https://replit.com/@suphwichymniiwa/DAL-2?v=1#settings/config.json)                   |
 | Bot  | `882972264394551316` | `ODgyOTcyMjY0Mzk0NTUxMzE2.G-tAuq.rYZ45ExGvgmDiJFa01KMy2SmwZ792jGyUrWzBc` | 6/18/2022 | [Link](https://replit.com/@thejanaDissanay/Discord-MusicBot-1?v=1#botconfig.js)              |
