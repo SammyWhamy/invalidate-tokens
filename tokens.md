@@ -2,6 +2,7 @@
 
 | Type | ID                   | Token                                                                    | Date      | Link                                                                                         |
 | ---- | -------------------- | ------------------------------------------------------------------------ | --------- | -------------------------------------------------------------------------------------------- |
+| User | `946935426944483349` | `OTQ2OTM1NDI2OTQ0NDgzMzQ5.Yhl8iA.rEPnx1RPu8BYbubADKkWzoZusGk`            | 6/18/2022 | [Link](N/A)                                                                                  |
 | Bot  | `973270479454474261` | `OTczMjcwNDc5NDU0NDc0MjYx.GtaaTC.RTLSb3NpH7xvD6fM5378mXktLgyYKI4W4ltrMk` | 6/18/2022 | [Link](https://replit.com/@EVILHACKER1/Discord-Clone-bot?v=1#config.js)                      |
 | User | `925796058527838228` | `OTI1Nzk2MDU4NTI3ODM4MjI4.YdHsrg.qT2y4ZZ4s0XreR551pC3DkQLnIw`            | 6/18/2022 | [Link](https://replit.com/@TecnoPlayZ1337/J4J-BOT-CREATED-BY-TecnoPlayZ?v=1#index.js)        |
 | User | `946030585460166666` | `OTQ2MDMwNTg1NDYwMTY2NjY2.YhYxpg.JGiOvpDP3inFLn0loOxLJH4jSqc`            | 6/18/2022 | [Link](https://replit.com/@TecnoPlayZ1337/Owl-spammer-Created-By-TecnoPlayZ?v=1#tokens.txt)  |
