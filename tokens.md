@@ -2,6 +2,7 @@
 
 | Type | ID                   | Token                                                                    | Date      | Link                                                                                         |
 | ---- | -------------------- | ------------------------------------------------------------------------ | --------- | -------------------------------------------------------------------------------------------- |
+| User | `925796058527838228` | `OTI1Nzk2MDU4NTI3ODM4MjI4.YdHsrg.qT2y4ZZ4s0XreR551pC3DkQLnIw`            | 6/18/2022 | [Link](https://replit.com/@TecnoPlayZ1337/J4J-BOT-CREATED-BY-TecnoPlayZ?v=1#index.js)        |
 | User | `946030585460166666` | `OTQ2MDMwNTg1NDYwMTY2NjY2.YhYxpg.JGiOvpDP3inFLn0loOxLJH4jSqc`            | 6/18/2022 | [Link](https://replit.com/@TecnoPlayZ1337/Owl-spammer-Created-By-TecnoPlayZ?v=1#tokens.txt)  |
 | User | `946030586768805908` | `OTQ2MDMwNTg2NzY4ODA1OTA4.YhYxpQ.m8cU14gCTvDR5PM9RRLMumsfBIA`            | 6/18/2022 | [Link](https://replit.com/@TecnoPlayZ1337/Owl-spammer-Created-By-TecnoPlayZ?v=1#tokens.txt)  |
 | User | `946030587829964840` | `OTQ2MDMwNTg3ODI5OTY0ODQw.YhYxpQ.8b-oV29bXVjs07G1y9cpCY-ILZE`            | 6/18/2022 | [Link](https://replit.com/@TecnoPlayZ1337/Owl-spammer-Created-By-TecnoPlayZ?v=1#tokens.txt)  |
