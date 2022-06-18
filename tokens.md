@@ -2,6 +2,7 @@
 
 | Type | ID                   | Token                                                                    | Date      | Link                                                                                         |
 | ---- | -------------------- | ------------------------------------------------------------------------ | --------- | -------------------------------------------------------------------------------------------- |
+| Bot  | `986663382432227418` | `OTg2NjYzMzgyNDMyMjI3NDE4.G4Dp-u.TcB_91zBX96W1TXuCOQx2nd6B4fTXksYFzCVg8` | 6/18/2022 | [Link](https://replit.com/@NoahKriJen/Security-Bot-V2?v=1#config.json)                       |
 | Bot  | `987782647507980290` | `OTg3NzgyNjQ3NTA3OTgwMjkw.GCGMTj.o-KWg9Vx7xGL1qhLPwXT01G_WySSOy2d93fAAo` | 6/18/2022 | [Link](https://replit.com/@karrar00/bwt-Gny-z?v=1#config.json)                               |
 | Bot  | `985568817264595004` | `OTg1NTY4ODE3MjY0NTk1MDA0.GTUdjN.fzZfbHMrPiEFofjbwruUJ6TSsGielwNTrgxaLo` | 6/18/2022 | [Link](https://replit.com/@ACHRAF-GAMINGGA/Music-bot-Advance?v=1#config.json)                |
 | Bot  | `985020873104826448` | `OTg1MDIwODczMTA0ODI2NDQ4.GmwxtL.bgBGP2hXmp2cUsrh04rUETFPBsAzGNnn6219y0` | 6/18/2022 | [Link](https://replit.com/@ppsnipes/nuke?v=1#main.py)                                        |
