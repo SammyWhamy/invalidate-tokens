@@ -2,6 +2,7 @@
 
 | Type | ID                   | Token                                                                    | Date      | Link                                                                                              |
 | ---- | -------------------- | ------------------------------------------------------------------------ | --------- | ------------------------------------------------------------------------------------------------- |
+| User | `939176504284299304` | `OTM5MTc2NTA0Mjg0Mjk5MzA0.Yf1DIw.SC_QeO9j8iWO2CCND13TqaqLIcg`            | 6/18/2022 | [Link](https://replit.com/@omar7projects/Token-control-by-omar6277-work?v=1#owl-data/checked.txt) |
 | User | `939188699852333066` | `OTM5MTg4Njk5ODUyMzMzMDY2.Yf1OBg.X0AGDBEx3vMK3fweoPuXytoUF14`            | 6/18/2022 | [Link](https://replit.com/@omar7projects/Token-control-by-omar6277-work?v=1#owl-data/checked.txt) |
 | User | `889704422819647529` | `ODg5NzA0NDIyODE5NjQ3NTI5.YUli2A.TmhDeV2KyjUW61Xa_SpTlMgW2YA`            | 6/18/2022 | [Link](https://replit.com/@shootassharp177/Exeter-Self-Bot-REMOVED-TOKEN-LOGGER?v=1#config.json)  |
 | User | `939185566229078077` | `OTM5MTg1NTY2MjI5MDc4MDc3.Yf1LPw.gLpFNV6egOYn5itQh6LYIoi1B5o`            | 6/18/2022 | [Link](https://replit.com/@omar7projects/Token-control-by-omar6277-work?v=1#owl-data/checked.txt) |
