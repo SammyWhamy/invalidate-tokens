@@ -2,6 +2,7 @@
 
 | Type | ID                   | Token                                                                    | Date      | Link                                                                                         |
 | ---- | -------------------- | ------------------------------------------------------------------------ | --------- | -------------------------------------------------------------------------------------------- |
+| User | `950765576085708830` | `OTUwNzY1NTc2MDg1NzA4ODMw.YmEooA.BP_-2-Zf-nMf1JtG9VZ8N6dkSIw`            | 6/18/2022 | [Link](https://replit.com/@NikolaMyrtaj/token-spamm?v=1#valid.txt)                           |
 | User | `882678811416727624` | `ODgyNjc4ODExNDE2NzI3NjI0.YS-4-A.dqfVckaBBN94zWF3h04oz_MmpRg`            | 6/18/2022 | [Link](https://replit.com/@NikolaMyrtaj/token-spamm?v=1#valid.txt)                           |
 | User | `966643343666872360` | `OTY2NjQzMzQzNjY2ODcyMzYw.YmEvQQ.It6q9lilcnioYHIL8A6jumXHNKc`            | 6/18/2022 | [Link](https://replit.com/@NikolaMyrtaj/token-spamm?v=1#valid.txt)                           |
 | User | `966597722293547039` | `OTY2NTk3NzIyMjkzNTQ3MDM5.YmEuXw.hlRghDmbeHri-pcw1p_s7GYyuB8`            | 6/18/2022 | [Link](https://replit.com/@NikolaMyrtaj/token-spamm?v=1#valid.txt)                           |
