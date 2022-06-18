@@ -2,6 +2,7 @@
 
 | Type | ID                   | Token                                                                    | Date      | Link                                                                                         |
 | ---- | -------------------- | ------------------------------------------------------------------------ | --------- | -------------------------------------------------------------------------------------------- |
+| Bot  | `987719111666708581` | `OTg3NzE5MTExNjY2NzA4NTgx.GQX1TC.wnZi8oc1-xdW7aAAf1lo3uUmUCpKze29ouu_8c` | 6/18/2022 | [Link](https://replit.com/@suphwichymniiwa/DAL-2?v=1#settings/config.json)                   |
 | Bot  | `882972264394551316` | `ODgyOTcyMjY0Mzk0NTUxMzE2.G-tAuq.rYZ45ExGvgmDiJFa01KMy2SmwZ792jGyUrWzBc` | 6/18/2022 | [Link](https://replit.com/@thejanaDissanay/Discord-MusicBot-1?v=1#botconfig.js)              |
 | Bot  | `987754534602428486` | `OTg3NzU0NTM0NjAyNDI4NDg2.G8wmdH.f6-GEWZTyICSPjjCcA7MlJ-8KwPLJia4ORdQ4s` | 6/18/2022 | [Link](https://replit.com/@RedEmpire1/DISCORD-ANTI-NUKE-BOT?v=1#main.py)                     |
 | Bot  | `986663382432227418` | `OTg2NjYzMzgyNDMyMjI3NDE4.G4Dp-u.TcB_91zBX96W1TXuCOQx2nd6B4fTXksYFzCVg8` | 6/18/2022 | [Link](https://replit.com/@NoahKriJen/Security-Bot-V2?v=1#config.json)                       |
