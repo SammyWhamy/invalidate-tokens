@@ -2,6 +2,8 @@
 
 | Type | ID                   | Token                                                                    | Date      | Link                                                                                              |
 | ---- | -------------------- | ------------------------------------------------------------------------ | --------- | ------------------------------------------------------------------------------------------------- |
+| User | `889645883862442016` | `ODg5NjQ1ODgzODYyNDQyMDE2.YUkRvA.FLpAFxdmVckp9Mp2huP5PaGkxps`            | 6/18/2022 | [Link](https://replit.com/@codernoah/token-spammer?v=1#tokens.txt)                                |
+| User | `939159458263748658` | `OTM5MTU5NDU4MjYzNzQ4NjU4.Yf1PgQ.oiNRwT4DVKMBl1nRHHNTBaaZDT4`            | 6/18/2022 | [Link](https://replit.com/@omar7projects/Token-control-by-omar6277-work?v=1#owl-data/checked.txt) |
 | User | `939192360649256971` | `OTM5MTkyMzYwNjQ5MjU2OTcx.Yf1RdQ.tByRU8fMK_BlTjGwC4Faeokoka4`            | 6/18/2022 | [Link](https://replit.com/@omar7projects/Token-control-by-omar6277-work?v=1#owl-data/checked.txt) |
 | User | `889645884663558144` | `ODg5NjQ1ODg0NjYzNTU4MTQ0.YUkRoA.eXWN0eAIhMeLBxPo5DKLLfwUgB4`            | 6/18/2022 | [Link](https://replit.com/@codernoah/token-spammer?v=1#tokens.txt)                                |
 | User | `939174856648429619` | `OTM5MTc0ODU2NjQ4NDI5NjE5.Yf1Bng.oA1rp0frVxRYCMOmjJqmMBclsyg`            | 6/18/2022 | [Link](https://replit.com/@omar7projects/Token-control-by-omar6277-work?v=1#owl-data/checked.txt) |
