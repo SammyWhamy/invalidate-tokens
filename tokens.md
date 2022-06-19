@@ -2,6 +2,7 @@
 
 | Type | ID                   | Token                                                                    | Date      | Link                                                                                              |
 | ---- | -------------------- | ------------------------------------------------------------------------ | --------- | ------------------------------------------------------------------------------------------------- |
+| Bot  | `789919750682574948` | `Nzg5OTE5NzUwNjgyNTc0OTQ4.GydpQk.KJ09MInxRrKzXl-MBrkRNUd6X7Oc9NIfPeNSTQ` | 6/19/2022 | [Link](N/A)                                                                                       |
 | User | `969889188243718175` | `OTY5ODg5MTg4MjQzNzE4MTc1.G0aL8d.UdgRjWXfs63Sh_KhB3cV5_LkleJCONFKmEdNYo` | 6/19/2022 | [Link](https://replit.com/@MURALIKRISHNAK6/Advanced-Server-Cloner?v=1#config.json)                |
 | User | `941577789331632169` | `OTQxNTc3Nzg5MzMxNjMyMTY5.YgX_IQ.QpOIttogk63gKXpR0xGmcx2sBqU`            | 6/19/2022 | [Link](https://replit.com/@SNGArmy/MS-TOKEN-JOINER-IN-FREE?v=1#tokens.txt)                        |
 | User | `901739236020088893` | `OTAxNzM5MjM2MDIwMDg4ODkz.YXUQHg.ZyO08k4czgV01S3oBjQN1fQ-9t0`            | 6/19/2022 | [Link](https://replit.com/@bsn7290discord/Token-Generator-YT?v=1#tokens.env)                      |
