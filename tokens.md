@@ -1,7 +1,7 @@
 >### Read the [README](https://github.com/SammyWhamy/invalidate-tokens/blob/main/README.md) file for information on these tokens and why they're here
 Use `ctrl`+`f` and search for your bots ID to find where the token was found.  
  For a full history, visit https://invalidate.vercel.app/history  
->#### 5108 tokens submitted, of which 120 are bots!
+>#### 5109 tokens submitted, of which 121 are bots!
   
 1. [985226048792838215](https://invalidate.vercel.app/history/id/985226048792838215)
 2. [980131770617987113](https://invalidate.vercel.app/history/id/980131770617987113)
@@ -123,6 +123,7 @@ Use `ctrl`+`f` and search for your bots ID to find where the token was found.
 118. [989866910072074252](https://invalidate.vercel.app/history/id/989866910072074252)
 119. [989857437408432158](https://invalidate.vercel.app/history/id/989857437408432158)
 120. [989628155801260112](https://invalidate.vercel.app/history/id/989628155801260112)
+121. [989835686792273960](https://invalidate.vercel.app/history/id/989835686792273960)
   <!--
 OTg1MjI2MDQ4NzkyODM4MjE1.G0atu5.Wp3lfUdh7O2CuqrlLBsnoFX5GwgrcO1EaFUpgo
 OTgwMTMxNzcwNjE3OTg3MTEz.GI_8qR.PFspE9q9MHp1VH9j_Tkb8R_j4WHj_WfIf80L4M
